@@ -264,7 +264,7 @@
   --color-primary-alternative: var(--brand-colors-blue-blue600);
   --color-primary-muted: #0376c919;
   --color-primary-inverse: var(--brand-colors-white-white010);
-  --color-primary-disabled: #0376c980;
+  --color-primary-disabled: rgba(253, 255, 93, .5);
   --color-primary-shadow: #0376c933;
   --color-secondary-default: var(--brand-colors-orange-orange500);
   --color-secondary-alternative: var(--brand-colors-orange-orange600);
@@ -337,7 +337,7 @@
   --color-primary-alternative: var(--brand-colors-blue-blue300);
   --color-primary-muted: #1098fc26;
   --color-primary-inverse: var(--brand-colors-white-white010);
-  --color-primary-disabled: #1098fc80;
+  --color-primary-disabled: rgba(253, 255, 93, .5);;
   --color-primary-shadow: #0376c933;
   --color-secondary-default: var(--brand-colors-orange-orange400);
   --color-secondary-alternative: var(--brand-colors-orange-orange300);
