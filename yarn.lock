@@ -1484,10 +1484,10 @@
   resolved "https://registry.yarnpkg.com/@mdx-js/util/-/util-1.6.22.tgz#219dfd89ae5b97a8801f015323ffa4b62f45718b"
   integrity sha512-H1rQc1ZOHANWBvPcW+JpGwr+juXSxM8Q8YCkm3GhZd8REu1fHR3z99CErO1p9pkcfcxZnMdIZdIsXkOHY0NilA==
 
-"@metamask/auto-changelog@^2.3.0":
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/@metamask/auto-changelog/-/auto-changelog-2.6.1.tgz#5a6291df6c1592f010bd54f1a97814a4570b1eaf"
-  integrity sha512-7VI4lftbQQHbZcxl1W+qFTWHxoeDGybL22Q70SNyYUVIBLlK5PirJHPh1zVYL4jEFmW0rItLLAXd/OZDuVG1Jg==
+"@metamask/auto-changelog@^3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@metamask/auto-changelog/-/auto-changelog-3.2.0.tgz#b0ada1017a9e529ad544a59b2fd9c33f93996642"
+  integrity sha512-Do1Lmsg/WsbEoGSNeJUm3tct5QMfVGyPUk9jMrsmf7JvN7twQUzq5Nu/WFoOQ/7v55OoA2Lh8il3unGdFaqzug==
   dependencies:
     diff "^5.0.0"
     execa "^5.1.1"
